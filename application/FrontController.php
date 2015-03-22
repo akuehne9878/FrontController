@@ -14,8 +14,6 @@ class FrontController {
 	const cookie = "raumklang";
 	public function __construct() {
 		
-		echo "test";
-		
 		// Project name of application
 		//$this->apps ["administration"] = "Administration";
 		
